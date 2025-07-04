@@ -1,29 +1,36 @@
-# Cryptographic Algorithm Assignment
+<p align="center">
+  <img src="hstu_logo.png" alt="hstu_logo_.png" width="250" height="300">
+</p>
+<h1 align="center">
+  <b>Encryption Algorithm</b>
+</h1>
+<h3 align="center">
+  <br>
+  <b>Level-3 Semester-II</b>  
+</h3>
+<h3 align="center">
+  Course Code: CSE 361 
+</h3>
 
-![HSTU Logo](hstu_logo.png)
+<h3 align="center">
+  Course Title: Mathematical Analysis for Computer Science
+  
+</h3>
+<br>
+<h3 align="center">
+  Submitted by 
+</h3>
+<h3 align="center">
+<b>Md. Sabbir Ahamed Shovon (ID: 2102034) </b> </h3>
+<br>
 
-**Course:** Mathematical Analysis for Computer Science (CSE 361)  
-**Submitted to:** Pankaj Bhowmik, Lecturer, CSE, HSTU  
-**Submitted by:** [Your Name]  
-**ID:** [Your ID]  
-**Date:** [Submission Date]
+<h3 align="center">
+  Submitted To 
+</h3>
 
----
-
-## Algorithm: XOR-Rotate Cipher
-
-### Overview
-A symmetric cipher combining bitwise XOR with character rotation for encryption/decryption.
-
-### Algorithm Steps
-
-#### Encryption:
-1. XOR each character with secret key
-2. Rotate string right by 1 position
-
-#### Decryption:
-1. Rotate string left by 1 position
-2. XOR each character with same key
-
-
-![Flow chart](Flow_chart.png)
+<h3 align="center"><b>Pankaj Bhowmik  </b></h3>
+<h3 align="center"><b>Lecturer, Department of CSE</b></h3>
+<br>
+<h3 align="center"> <b>Department of Computer Science and Engineering </b></h3>
+<h3 align="center"><b>Hajee Mohammad Danesh Science and Technology University  
+Dinajpur-5200</b></h3>
