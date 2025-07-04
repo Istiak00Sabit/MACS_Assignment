@@ -27,7 +27,7 @@ string xor_rotate_cipher(const string& text, int key, bool encrypt) {
 }
 
 int main() {
-    string plaintext = "Ishtiak";
+    string plaintext = "SHABIT";
     int key = 42;
     
     cout << "Original: " << plaintext << endl;
