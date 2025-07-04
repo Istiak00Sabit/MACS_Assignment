@@ -49,7 +49,6 @@ A simple implementation of a symmetric encryption-decryption algorithm using XOR
 
 ---
 
-##  Table of Contents
 
 ## Table of Contents
 
